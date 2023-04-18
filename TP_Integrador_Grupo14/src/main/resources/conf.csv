@@ -1,2 +1,2 @@
 JDBC_DRIVER;DB_URL;USER;PASS;Puntaje Por Partido;Puntaje Extra
-com.mysql.jdbc.Driver;jdbc:mysql://localhost:3306/pronosticos;root;Contraseña01;1;2
+com.mysql.jdbc.Driver;jdbc:mysql://localhost:3306/pronosticos;root;root;1;2
